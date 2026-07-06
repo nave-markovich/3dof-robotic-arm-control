@@ -74,7 +74,7 @@ To ensure proper execution, MATLAB functions depend on one another. Code is orga
 
 ---
 
-## 📊 Simulation Output Naming Convention (Google Drive)
+## 📊 Simulation Output Naming Convention 
 External simulation videos and graphs (hosted on the connected Google Drive) follow a strict naming convention to describe the motion parameters:
 
 **Format:** `start_<theta1>_<theta2>_<theta3>_end_<x>_<y>_<z>`
