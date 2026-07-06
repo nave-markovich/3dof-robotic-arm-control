@@ -56,9 +56,12 @@ $$\tau(q) = G(q) - \nabla U_{\text{att}}(q) - K_d\dot{q}$$
 
 **1. Zero-Input Passive Dynamics (Conservative System Validation)**
 <video src="assets/03_zero_input_robot_animation.mp4" width="600" controls></video>
-
+* **[Watch Zero-Input Passive Dynamics Animation](assets/03_zero_input_robot_animation.mp4)**
+* 
 **2. Closed-Loop Controlled Motion (Target Acquisition)**
 <video src="assets/robot_potential_simulation.mp4" width="600" controls></video>
+* **[Watch Closed-Loop Controlled Motion](assets/robot_potential_simulation.mp4)**
+* **[Watch Additional Target Trajectory](assets/robot_potential_simulation1.mp4)**
 
 ---
 
